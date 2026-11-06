@@ -1,0 +1,11 @@
+# Raw data (Too large, available from original sources)
+data/raw/*.csv
+data/raw/worldbank/*.csv
+
+# Intermediary files
+data/interim/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
